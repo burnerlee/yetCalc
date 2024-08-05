@@ -94,3 +94,5 @@ Also, only download the app from sources provided by the developer.
 ## Donations
 
 To donate, check out [Donate.md](./DONATE.md)
+
+
