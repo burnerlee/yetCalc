@@ -7,7 +7,3 @@ plugins {
 task clean(type: Delete) {
     delete rootProject.layout.buildDirectory
 }
-
-
-
-
